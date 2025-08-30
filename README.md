@@ -128,7 +128,7 @@ flowchart TD
 
     F -->|All complete| G[Activities Agent]
     G --> H[Itinerary Agent]
-    H --> I[Final Output: PDF / Email]
+    H --> I[Final Output: PDF / Text]
 ```
 
 1. **Research Agent** → Collects basic destination info  
