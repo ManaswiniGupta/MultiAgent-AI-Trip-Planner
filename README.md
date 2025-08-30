@@ -21,7 +21,7 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 ## 🖼️ Screenshots
 
 ### App UI
-![Trip Planner UI](Demo images/Demo%20Images/Screenshot%20(403).png)
+![Trip Planner UI](https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(403).png)
 
 ### Workflow Diagram
 ![Workflow](Demo Images/agent.png)
