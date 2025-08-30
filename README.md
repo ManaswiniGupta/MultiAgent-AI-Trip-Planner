@@ -18,6 +18,15 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 
 ---
 
+## 🖼️ Screenshots
+
+### App UI
+![Trip Planner UI](images/Screenshot (406).png)
+
+### Workflow Diagram
+![Workflow](Demo Images/workflow.png)
+
+
 ## 📦 Installation
 
 ### 1. Clone the repository
