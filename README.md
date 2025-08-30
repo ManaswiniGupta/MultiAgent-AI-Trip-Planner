@@ -20,11 +20,32 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 
 ## 🖼️ Screenshots
 
-### App UI
-![Trip Planner UI](https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(403).png)
-
 ### Workflow Diagram
-![Workflow](Demo Images/agent.png)
+![Workflow](https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/agent.png)
+
+## 🖼️ Screenshots
+
+### App UI
+
+<p align="center">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(403).png" width="45%">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(404).png" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(405).png" width="45%">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(407).png" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(408).png" width="45%">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(409).png" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(411).png" width="45%">
+  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(412).png" width="45%">
+</p>
 
 
 ## 📦 Installation
