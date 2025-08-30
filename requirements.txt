@@ -1,0 +1,17 @@
+streamlit
+langchain==0.3.27
+langgraph==0.6.1
+langchain-google-genai
+langchain-community
+googlemaps
+wikipedia
+requests
+python-dotenv
+pandas
+tavily-python
+typing-extensions
+pydantic
+reportlab
+weasyprint
+jinja2
+markdown-pdf
