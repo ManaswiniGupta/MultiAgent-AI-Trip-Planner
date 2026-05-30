@@ -59,8 +59,8 @@ cd ai-trip-advisor
 ### 2. Create a Python environment (Python 3.10 recommended)
 ```bash
 python -m venv .venv
-source .venv/bin/activate   # On Linux/Mac
-.venv\Scripts\activate      # On Windows
+source .venv/bin/activate    # On Linux/Mac
+.venv\Scripts\activate       # On Windows
 ```
 
 ### 3. Install dependencies
